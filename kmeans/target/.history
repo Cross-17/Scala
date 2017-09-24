@@ -1,1 +1,6 @@
 ;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Crossbell/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/Crossbell/Desktop/Scala/kmeans/}root/products {file:/C:/Users/Crossbell/Desktop/Scala/kmeans/}root/test:products
+submit hezhengda@163.com P9tPOKMiveLtqJYF
+submit hezhengda@163.com vAMvleNrTEV4zvs1
+run-main kmeans.fun.ScalaShop
+submit hezhengda@163.com P9tPOKMiveLtqJYF
