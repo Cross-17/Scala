@@ -1,0 +1,5 @@
+*.jpg
+**/input
+**/resources
+*.csv
+*.dat
