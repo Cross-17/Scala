@@ -1,1 +1,4 @@
 ;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Crossbell/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/Crossbell/Desktop/Scala/wikipedia/}root/products {file:/C:/Users/Crossbell/Desktop/Scala/wikipedia/}root/test:products
+submit hezhengda@163.com xhfpaBICd7MRfpPf
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Crossbell/AppData/Local/Temp/sbt-structure.xml
