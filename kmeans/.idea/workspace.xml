@@ -23,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1300">
-              <caret line="69" column="8" lean-forward="true" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+              <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -351,7 +351,7 @@
       <option name="presentableId" value="Default" />
       <updated>1506263919507</updated>
       <workItem from="1506263924929" duration="2762000" />
-      <workItem from="1506273059204" duration="311000" />
+      <workItem from="1506273059204" duration="1541000" />
     </task>
     <servers />
   </component>
@@ -364,7 +364,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3073000" />
+    <option name="totallyTimeSpent" value="4303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -462,7 +462,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/KMeans.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1300">
-          <caret line="69" column="8" lean-forward="true" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+          <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -470,7 +470,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/kmeans/fun/IndexedColors.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
