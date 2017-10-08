@@ -1,0 +1,5 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Crossbell/AppData/Local/Temp/sbt-structure.xml
+submit hezhengda@163.com 1M7oXrQSFbMf9Gxn
+submit hezhengda@163.com 4nS2yLL67rnPPqyK
+all {file:/C:/Users/Crossbell/Desktop/Scala/observatory/}root/products {file:/C:/Users/Crossbell/Desktop/Scala/observatory/}root/test:products
+capstoneUI/fastOptJS
